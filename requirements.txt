@@ -1,0 +1,2 @@
+click==6.7
+libvirt-python==3.5.0
